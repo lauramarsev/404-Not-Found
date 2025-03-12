@@ -1,0 +1,27 @@
+body {
+	background: #ffffff;
+}
+
+h2 {
+	text-align: center;
+	font-family: "courier new"; 
+	box-sizing: border-box;
+} 
+
+.container{
+	display: flex;
+	align-items: center;
+}
+
+#message{
+	font-family: "calibri";
+	font-size: 20px;
+	float: right;
+	width: 35%;
+} 
+
+.imagen{
+	height: 500px;
+	width: 500px; 
+	margin-left: 20px;
+}
